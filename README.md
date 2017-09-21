@@ -10,3 +10,5 @@ step2:
   ./csgl ./ generateCode/ Test
 
 and then,your can find the generated code in generateCode dir.
+
+it can identify enum,struct,interface and generated serialize for me
